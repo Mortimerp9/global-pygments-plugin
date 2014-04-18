@@ -107,3 +107,4 @@ AC_CONFIG_FILES([Makefile
 	test/Makefile
 ])
 AC_OUTPUT
+AC_CONFIG_MACRO_DIR([m4])
