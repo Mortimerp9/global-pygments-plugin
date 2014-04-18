@@ -1,3 +1,5 @@
+Forked to make it easy to compile on OS X with brew installed.
+
 # Pygments Plug-in Parser for GNU GLOBAL
 
 This software is a plug-in parser for GNU GLOBAL.
